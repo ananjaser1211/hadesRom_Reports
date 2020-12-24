@@ -1,8 +1,8 @@
-# FloydQ - Exynos8890
+# hadesRom Q - Exynos8895
 
-**Bug reporting repo for [FloydQ](https://bit.ly/3cEpe0N)**
+**Bug reporting repo for [hadesRom](PLACEHOLDER)**
 
-![alt text](https://i.ibb.co/SssNGFz/final-banner.png)
+![alt text](https://i.imgur.com/xpROhLq.png)
 
 ### How to write issues
 
@@ -13,7 +13,7 @@
 * Gather logs!
 
 ### How to gather logs with **LoggingKit**
-* Clone/Fork the repo or download the kit via [Releases](https://github.com/ananjaser1211/FloydQ_Reports/releases)
+* Clone/Fork the repo or download the kit via [Releases](https://github.com/ananjaser1211/hadesRom_Reports/releases)
 
 ### [With booted System] - **Intended for Crashes, FCs and other SYSTEM Logs**
 
