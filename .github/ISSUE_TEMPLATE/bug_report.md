@@ -28,4 +28,4 @@ Add screenshots to help explain your problem.
  - Model: [e.g. G950F]
 
 **Additional context**
-- Gather logs by using [LoggingKit](https://bit.ly/3anwSuW) when applicable
+- Gather logs by using [LoggingKit](https://github.com/ananjaser1211/hadesRom_Reports/releases/tag/v3.0) when applicable
